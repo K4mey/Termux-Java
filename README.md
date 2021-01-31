@@ -1,12 +1,12 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code%20(for%20some%20reason)-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MasterDevX/Termux-Java)
 
-# Termux Java
+# Termux Java 15
 
 ### Information
 
-This script will install Java in Termux.
+This script will install Java 15 in Termux.
 
-Libraries compiled by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profile"), scripts written by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profile"), [MasterDevX](https://github.com/MasterDevX "MasterDevX's GitHub profile") and [Guzio](https://github.com/GuzioMG "Guzio's GitHub profile"), with some *very, very tiny* help from [Harshiv-Patel](https://Harshiv-Patel "he changed like... one thing").
+script is written by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profile"), [MasterDevX](https://github.com/MasterDevX "MasterDevX's GitHub profile") and [Guzio](https://github.com/GuzioMG "Guzio's GitHub profile"), with some *very, very tiny* help from [Harshiv-Patel](https://Harshiv-Patel "he changed like... one thing"), and modified by K4mey to run java 15 [K4mey](https://github.com/Hax4us "K4mey's GitHub profile"),
 
 ### How to use
 
