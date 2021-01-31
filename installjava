@@ -21,9 +21,9 @@ else
 	#Checking, whether is someone trying to cheat and simplyfy their installation it on Linux (i.e. x86 (not listad, as you can see) machine) using this script, which have no reason to work.
 	case `dpkg --print-architecture` in
 	aarch64)
-		archname="aarch64"; tag="v8" ;;
+		archname="aarch64"; tag="v15" ;;
 	arm64)
-		archname="aarch64"; tag="v8" ;;
+		archname="aarch64"; tag="v15" ;;
 	armhf)
 		archname="arm"; tag="v8-151" ;;
 	armv7l)
